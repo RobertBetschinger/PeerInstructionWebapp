@@ -1,0 +1,9 @@
+[submodule "Peer-Instructions-Socket-Server"]
+	path = Peer-Instructions-Socket-Server
+	url = https://github.com/RobertBetschinger/Peer-Instructions-Socket-Server.git
+[submodule "LecteurApp"]
+	path = LecteurApp
+	url = https://github.com/RobertBetschinger/LecteurApp.git
+[submodule "StudentClient"]
+	path = StudentClient
+	url = https://github.com/RobertBetschinger/StudentClient.git
