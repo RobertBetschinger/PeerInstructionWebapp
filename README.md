@@ -61,11 +61,7 @@ All of these Projects use Node.js in one way or a other so you will have to inst
 
 5: For Socket Server run "npm i --save-dev nodemon"
 
-6: For NodeJSServer create a .env File in the Repository. Of Course this File is normally not included into the repository.
-   In this File create a new Variable with the connection String to your MongoDB Atlas cluster.
-   Example:
-   
-  DATABASE_URL=mongodb+srv://brad:1234@projektseminar-oibte.mongodb.net/test?retryWrites=true&w=majority
+
 
 ## Running the tests
 
