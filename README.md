@@ -2,7 +2,7 @@
 
 !!!Important: This repository is still under active development.!!!
 
-Within this bachelor thesis  two web apps were developed to provide teachers/professors/etc. with a simple and modern way to implement Peer Instruction Teachning Method into their class. Peer Instruction is a teaching method originally developed by Erich Mazur in 1990s which shows significant positive impact on students learning succes.
+Within this bachelor thesis  two web apps were developed to provide teachers/professors/etc. with a simple and modern way to implement Peer Instruction Teachning Method into their class. Peer Instruction is a teaching method originally developed by Eric Mazur in 1990s at the University of Harvard, which shows significant positive impact on students learning succes.
 
 The Peer lecturer app is the part of this project that is intended for professors and teachers. This web service allows to query concept questions to the students and monitor their answers. The Questions are downloaded from a MONGODB Databse. It is possible to create new Questions at this Database whith the so called "Dozentenapp", an other Project at the Chair of Information Systems(University of Regensburg). Further it is possible to communicate with the Students over an chat application.
 
